@@ -119,12 +119,6 @@ form label, form legend {
     transform: scale(1.2);
     
 }
-footer img{
-    transition: 5s all;
-}
-footer img:hover {
-transform:rotate(90000deg);
-}
 table {
     margin: 20px 0 40px;
 }
